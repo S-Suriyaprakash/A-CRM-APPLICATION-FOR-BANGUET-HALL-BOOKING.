@@ -82,17 +82,11 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 - Mobile app  
 - AI recommendations  
 
----
 
-## 🤝 Contribution
-Feel free to fork and contribute.
 
----
-
-## 📜 License
-Educational purpose only.
-
----
 
 ## 👨‍💻 Author
-RAJESHKUMAR M
+SURIYAPRAKASH S 
+THANGA PRAKASH S 
+DILEEP KUMAR 
+JOSHUA MATHEW
