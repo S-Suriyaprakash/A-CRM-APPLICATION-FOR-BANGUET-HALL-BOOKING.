@@ -1,11 +1,11 @@
-# 🏢 CRM Application for Banquet Hall Booking
+#  CRM Application for Banquet Hall Booking
 
-## 📌 Project Overview
+##  Project Overview
 The CRM Application for Banquet Hall Booking is a Salesforce-based solution designed to streamline the process of managing banquet hall reservations, customer details, event scheduling, and payments.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Simplify booking management  
 - Maintain centralized customer records  
 - Track event schedules  
@@ -13,35 +13,35 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 👤 Customer Management
+###  Customer Management
 - Store customer details  
 - Track booking history  
 - Maintain contact info  
 
-### 🏢 Hall Management
+###  Hall Management
 - Manage multiple halls  
 - Store capacity and pricing  
 - Check availability  
 
-### 📅 Booking System
+###  Booking System
 - Create bookings  
 - Avoid double booking  
 - Track status (Pending, Confirmed, Cancelled)  
 
-### 💰 Payment Tracking
+###  Payment Tracking
 - Record payments  
 - Track pending & completed  
 
-### 📊 Reports & Dashboard
+###  Reports & Dashboard
 - Booking reports  
 - Revenue analysis  
 - Customer insights  
 
 ---
 
-## 🧱 Data Model
+##  Data Model
 - Customer__c  
 - Hall__c  
 - Booking__c  
@@ -49,7 +49,7 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 
 ---
 
-## ⚙️ Implementation Steps
+##  Implementation Steps
 - Create custom objects  
 - Define relationships  
 - Build Lightning App  
@@ -58,7 +58,7 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 
 ---
 
-## 🧪 How to Use
+##  How to Use
 1. Login to Salesforce  
 2. Open App  
 3. Add Customer  
@@ -69,14 +69,14 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 - Role-based access  
 - Object-level security  
 - Validation rules  
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Online booking  
 - Email/SMS alerts  
 - Mobile app  
@@ -84,8 +84,17 @@ The CRM Application for Banquet Hall Booking is a Salesforce-based solution desi
 
 
 
+##  Project Demo & Documentation
 
-## 👨‍💻 Author
+ Project Documentation:  
+https://drive.google.com/file/d/1PUwi3QiRD4u8wk-eG0grgCjRLDwOj592/view?usp=sharing
+
+ Demo Video:  
+https://drive.google.com/file/d/1WS0FLMGJVShXqXWu-EjZ-VgAj3-AKvIy/view
+
+
+
+##  Author
 SURIYAPRAKASH S 
 THANGA PRAKASH S 
 DILEEP KUMAR 
